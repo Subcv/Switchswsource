@@ -1,0 +1,2 @@
+# Switchswsource
+用于termux快捷切换国内源的shell
